@@ -1,0 +1,15 @@
+{
+	"name": "adf-demo-amir",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "uaenorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6fc34f08-cd5b-4611-871b-c04547203c49",
+		"tenantId": "5a2ca587-8275-45e6-89ca-4fec3ae21ec4"
+	}
+}
